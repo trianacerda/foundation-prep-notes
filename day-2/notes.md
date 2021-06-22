@@ -12,6 +12,17 @@ https://docs.emmet.io/abbreviations/syntax/
 * images= src
 * links= href (link is also know as an anchor tag)
 * a= anchor tag
+* rem/em- relative sizing of your font
+
+
+# CSS
+* popular tag = class
+* to target a class you put a **period** in from of it.
+* google fonts (link goes into HTML page)
+
+# Box Model
+* Body: margin, border, padding
+* 
 
 
 
