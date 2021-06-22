@@ -10,5 +10,5 @@ Lab 01b Notes Repository
 
 [Day 4](./day-4/notes.md)
 
-[Day 5](./day-/notes.md) 
+[Day 5](./day-5/notes.md) 
 

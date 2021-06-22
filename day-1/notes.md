@@ -1,7 +1,5 @@
 # Day 1 Notes
 
-
-
 This is just a sample list of my animals 
 1. **Tala**
 1. _Luna_
