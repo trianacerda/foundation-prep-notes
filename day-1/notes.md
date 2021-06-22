@@ -12,7 +12,7 @@ This is just a sample list of my animals
  ## Important things:
  * git is NOT github. git tracks changes (ACP)
  * github is a cloud storage for repos 
- * git init -makes a git repo aka .git
+ * git init -makes a git repo aka **_.git_**
 
 
  _Person_|**Birthday this year**|_Fav. Color_
